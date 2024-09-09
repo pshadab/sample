@@ -21,3 +21,5 @@ resource "aws_instance" "app_server" {
     Name = "ExampleAppServerInstance"
   }
 }
+#This is just a comment added to the code
+
